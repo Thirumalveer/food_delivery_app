@@ -5,7 +5,7 @@ import Home from "./components/pages/Home/Home";
 import Cart from "./components/pages/cart/cart";
 import Footer from "./components/Footer/Footer";
 import LoginPopup from "./components/LoginPopup/LoginPopup";
-import PlaceOrder from "./components/pages/placeorder/PlaceOrder";
+import PlaceOrder from "./components/pages/PlaceOrder/PlaceOrder";
 import ExploreMenu from "./components/ExploreMenu/ExploreMenu";
 
 const App = () => {
